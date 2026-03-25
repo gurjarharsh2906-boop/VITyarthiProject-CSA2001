@@ -37,7 +37,10 @@ The **motivation** behind this utility is to provide a "headless," automated sol
 * **Auto-ML:** Implement Auto-ARIMA for dynamic parameter selection.
 * **Real-time BI:** Add a Streamlit dashboard for interactive data filtering.
 * **Deep Learning:** Integrate LSTM networks for improved non-linear forecasting.
-
+  
+## Technical Note
+* **Data Source:** Please note that the dataset used in this project (Retail_Sales_Data_Unlox (1).csv) consists of synthetic data generated entirely with the assistance of AI to simulate real-world retail environments for analytical testing.
+  
 ##  Author
 **HARSH GURJAR**\
 RegNo.: 25BCE11195\
