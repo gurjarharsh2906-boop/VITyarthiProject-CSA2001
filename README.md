@@ -50,7 +50,7 @@ After execution, check the `/outputs` directory for:
 * **Real-time BI:** Add a Streamlit dashboard for interactive data filtering.
 * **Deep Learning:** Integrate LSTM networks for improved non-linear forecasting.
 ## Technical Note
-* **Data Source:** Please note that the dataset used in this project (Retail_Sales_Data_Unlox (1).csv) consists of synthetic data generated entirely with the assistance of AI to simulate real-world retail environments for analytical testing.
+* **Data Source:** Please note that the dataset used in this project (Retail_Sales_Data.csv) consists of synthetic data generated entirely with the assistance of AI to simulate real-world retail environments for analytical testing.
 ##  Author
 **HARSH GURJAR**\
 RegNo.: 25BCE11195\
