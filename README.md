@@ -36,8 +36,8 @@ After execution, check the `/outputs` directory for:
 ---
 
 ##  Project Structure
-* `Retail_Analytics_and_Forecasting (3).py` —> Analysis Engine
-* `Retail_Sales_Data_Unlox (1).csv` —> Raw Dataset
+* `Sourcecode.py` —> Analysis Engine
+* `Retail_Sales_Data.csv` —> Raw Dataset
 * `/outputs/` —> Visual reports
 
 ##  Evaluation Compliance
