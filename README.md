@@ -21,10 +21,10 @@ An end-to-end data science pipeline that transforms raw retail transactions into
     ```bash
     pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
     ```
-2.  **Configuration:** Place `Retail_Sales_Data_Unlox (1).csv` in the script's folder.
+2.  **Configuration:** Place `Retail_Sales_Data.csv` in the script's folder.
 3.  **Run Project:**
     ```bash
-    python "Retail_Analytics_and_Forecasting (3).py"
+    python "Sourcecode.py"
     ```
 
 ##  Verify Outputs
